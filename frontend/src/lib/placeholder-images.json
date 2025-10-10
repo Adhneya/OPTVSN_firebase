@@ -1,0 +1,118 @@
+{
+  "placeholderImages": [
+    {
+      "id": "team-aakanksha",
+      "description": "Profile picture of Aakanksha Sharma (Lead PM Mentor & CEO)",
+      "imageUrl": "/Aakanksha (Lead PM Mentor & CEO).png",
+      "imageHint": "professional headshot woman"
+    },
+    {
+      "id": "team-ajay",
+      "description": "Profile picture of Ajay Kumar (Director)",
+      "imageUrl": "/Ajay Kumar (Director).png",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "team-anupama",
+      "description": "Profile picture of Anupama S (Founder's Office)",
+      "imageUrl": "/Anupama S (Founder's Office).png",
+      "imageHint": "professional headshot woman"
+    },
+    {
+      "id": "team-mritunjay",
+      "description": "Profile picture of Mritunjay Raj (Lead Video Designer & Data AI Engineer)",
+      "imageUrl": "/Mritunjay Raj (Lead Video Designer & Data AI Engineer).png",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "team-satya",
+      "description": "Profile picture of Satya Rao (UX Lead)",
+      "imageUrl": "/Satya Rao (UX Lead).png",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "team-sebastiano",
+      "description": "Profile picture of Sebastiano Fuccio (Chief Advisor)",
+      "imageUrl": "/Sebastiano Fuccio (Chief Advisor).png",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "team-sujeet",
+      "description": "Profile picture of Sujeet Kumar (Legal Representative)",
+      "imageUrl": "/Sujeet Kumar (Legal Representative).png",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar for Anupam Raj.",
+      "imageUrl": "https://images.unsplash.com/photo-1640951613773-54706e06851d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBhdmF0YXIlMjBtYW58ZW58MHx8fHwxNzU5MDM2OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar man"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar for Deepti S.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135696-4421c9a90746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBhdmF0YXIlMjB3b21hbnxlbnwwfHx8fDE3NTkwMzY5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar woman"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Avatar for Tony.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135659-7a0c8878a8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyJTIwbWFufGVufDB8fHx8MTc1OTAzNjkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar man"
+    },
+    {
+      "id": "testimonial-avatar-4",
+      "description": "Avatar for Zarreen.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135704-f9a5dba67e46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyJTIwd29tYW58ZW58MHx8fHwxNzU5MDM2OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar woman"
+    },
+    {
+      "id": "testimonial-avatar-5",
+      "description": "Avatar for Abhishek Raj.",
+      "imageUrl": "https://images.unsplash.com/photo-1640960543409-dbe56ccc30e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBhdmF0YXIlMjBtYW58ZW58MHx8fHwxNzU5MDM2OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar man"
+    },
+    {
+      "id": "testimonial-avatar-6",
+      "description": "Avatar for Mrinalini.",
+      "imageUrl": "https://images.unsplash.com/photo-1569913486515-b74bf7751574?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBhdmF0YXIlMjB3b21hbnxlbnwwfHx8fDE3NTkwMzY5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar woman"
+    },
+    {
+      "id": "testimonial-avatar-7",
+      "description": "Avatar for Sebastiano Fuccio.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135645-005e250ff210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBhdmF0YXIlMjBtYW58ZW58MHx8fHwxNzU5MDM2OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar man"
+    },
+    {
+      "id": "testimonial-avatar-8",
+      "description": "Avatar for Samarth Goyal.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135659-7a0c8878a8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyJTIwbWFufGVufDB8fHx8MTc1OTAzNjkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar man"
+    },
+    {
+      "id": "testimonial-avatar-9",
+      "description": "Avatar for Sai Swetha.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135451-7c20e24b60c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBhdmF0YXIlMjB3b21hbnxlbnwwfHx8fDE3NTkwMzY5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar woman"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "A person writing on a whiteboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1758873269117-d5845126928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3aGl0ZWJvYXJkJTIwc3RyYXRlZ3l8ZW58MHx8fHwxNzU5MDM2OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whiteboard strategy"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "Two people in a job interview.",
+      "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBpbnRlcnZpZXd8ZW58MHx8fHwxNzU4OTk3NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "job interview"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A roadmap drawn on a piece of paper.",
+      "imageUrl": "https://images.unsplash.com/photo-1590402494727-0375eeaacf68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9kdWN0JTIwcm9hZG1hcHxlbnwwfHx8fDE3NTkwMzY5Mjd8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "product roadmap"
+    }
+  ]
+}
