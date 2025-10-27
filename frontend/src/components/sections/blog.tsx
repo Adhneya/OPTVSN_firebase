@@ -4,7 +4,6 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import { Badge } from "@/components/ui/badge";
 
 export default function Blog() {
   const latestPosts = blogPosts.slice(0, 3);
